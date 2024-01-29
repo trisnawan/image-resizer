@@ -11,6 +11,10 @@ composer require trisnawan/image-resizer
 ## Initialization
 
 ```php
+use Trisnawan\ImageResizer\ImageResizer;
+```
+
+```php
 // Image from user upload
 $filePath = $_FILES["image"]["tmp_name"];
 
