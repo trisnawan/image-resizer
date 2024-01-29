@@ -1,5 +1,5 @@
 {
-    "name": "trisnawan/imageresizer",
+    "name": "trisnawan/image-resizer",
     "type": "library",
     "description": "Resizer, Thumbnailer, Cropper Image with PHP Imagick",
     "keywords": [
