@@ -20,8 +20,8 @@
         "php": ">=7.4.0"
     },
     "autoload": {
-        "psr-0": {
-            "Monolog": "src"
+        "psr-4": {
+            "Trisnawan\\ImageResizer\\": "src/"
         }
     }
 }
